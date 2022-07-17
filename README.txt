@@ -1,6 +1,6 @@
 
 
-Livro de Receitas :)
+Repositório - Introdução ao Github Livro de Receitas :)
 
 
 Olá bem vindo ao meu primeiro livro de receita
